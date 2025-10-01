@@ -1,4 +1,4 @@
-InfraConnect.config
+
 # Build
 bin/
 obj/
@@ -20,4 +20,3 @@ Thumbs.db
 /publish/
 
 # Config ที่มี secrets
-appsettings.Development.json
